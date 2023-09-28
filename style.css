@@ -2,7 +2,7 @@ body {
     background: #CCCCCC
 }
 
-h2 {
+h1 {
     text-align: center
 }
 
@@ -15,5 +15,5 @@ p {
 }
 
 em strong {
-    color: FF0000;
+    color: #FF0000;
 }  
